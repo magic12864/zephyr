@@ -51,6 +51,7 @@ _names = [
     'pyocd',
     'renode',
     'renode-robot',
+    'rtsflash',
     'qemu',
     'silabs_commander',
     'spi_burn',
